@@ -168,7 +168,6 @@ def team_colors(team)
   arr
 end
 
-p team_colors("Brooklyn Nets")
 
 def team_names
   arr = []
